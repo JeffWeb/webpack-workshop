@@ -1,0 +1,1 @@
+module.exports = "le fichier content.js nous dit bonjour"
