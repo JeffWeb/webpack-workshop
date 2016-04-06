@@ -1,0 +1,23 @@
+{
+  "name": "webpack-workshop",
+  "version": "1.0.0",
+  "description": "short tutorial to understand how works webpack module bundler",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffWeb/webpack-workshop.git"
+  },
+  "keywords": [
+    "webpack",
+    "javascript"
+  ],
+  "author": "Jean-François Fraisse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffWeb/webpack-workshop/issues"
+  },
+  "homepage": "https://github.com/JeffWeb/webpack-workshop#readme"
+}
