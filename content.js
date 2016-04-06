@@ -1,1 +1,1 @@
-module.exports = "le fichier content.js nous dit bonjour"
+module.exports = "le fichier content.js nous est bien compilé"
