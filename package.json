@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/JeffWeb/webpack-workshop/issues"
   },
-  "homepage": "https://github.com/JeffWeb/webpack-workshop#readme"
+  "homepage": "https://github.com/JeffWeb/webpack-workshop#readme",
+  "devDependencies": {
+    "webpack": "^1.12.14"
+  }
 }
