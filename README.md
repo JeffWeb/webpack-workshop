@@ -9,7 +9,7 @@ document.write("le fichier content.js nous est bien compilé");
 ```
 
 écrire dans index.html 
-<pre>
+<code>
 <html>
     <head>
         <meta charset="utf-8">
@@ -18,7 +18,7 @@ document.write("le fichier content.js nous est bien compilé");
         <script type="text/javascript" src="bundle.js" charset="utf-8"></script>
     </body>
 </html>
-</pre>
+</code>
 
 puis lancer la compilation webpack avec l'invité de commande
 
